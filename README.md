@@ -21,11 +21,11 @@
 
 ### 🚀 Ferramentas
 
-- Python 3.8+
-- Visual Studio Code
-- Jupyter
 - Django
-- SQLite
+- Python 3.8+
+- PostgreSQL
+- Visual Studio Code
+
 
 ---
 
