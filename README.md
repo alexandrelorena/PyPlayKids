@@ -1,9 +1,11 @@
-# 🐍 PyPlay Kids
+
+![PyPlayKids](images/logo2.jpeg)
+
 ---
+
 ### 📚 Projeto de Extensão do Curso de Engenharia de Software 
 
 ---
-
 - Univeridade Anhanguera Educacional
 - EAD (Ampli)
 -  Plataforma Online de de aprendizado da linguagem Python para crianças de 4 a 10 Anos
